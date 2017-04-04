@@ -10,4 +10,6 @@ První oprava
 První oprava
 První oprava   
 Oprava ze SourceTree (test2)
+
+Doplneni do master (test1)
  
